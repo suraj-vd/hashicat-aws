@@ -11,7 +11,11 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
+<<<<<<< HEAD
   Welcome to ${PREFIX}'s app. Take care of your HashiCat.
+=======
+  Welcome to ${PREFIX}'s app. Replacing with new HashiCat.
+>>>>>>> d3fb7c8fd844ee39645e81517b78ec601fb4749f
   <!-- END -->
 
   </div>
